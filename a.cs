@@ -10,4 +10,9 @@ public class A{
 	void ToString2(){
 		Console.WriteLine("Added through github.com");
 	}
+
+	// Add a func locally
+	void Dummny(){
+		
+	}
 }
